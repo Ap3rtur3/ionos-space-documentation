@@ -71,6 +71,9 @@
     "feedback-text": "We are not done yet! Do you have ideas for Deploy Now or are you missing a feature? We would love to hear your feedback. You can use the feedback button in the product or send a mail to our Product Owner Robert.",
     "team-title": "Meet the team"
   },
+  "blog": {
+    "title": "Blog"
+  },
   "404": {
     "title": "Oh no! There is nothing here.",
     "back": "Go back"
